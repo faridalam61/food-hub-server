@@ -3,7 +3,9 @@ const app = express();
 const port = 5000;
 const chefs = require('./data/chefs.json');
 const recipies = require('./data/recipies.json');
+const cors = require('cors')
 
+app.use(cors());
 app.get('/', (req, res) => {
     res.send('Server is running..')
 })
