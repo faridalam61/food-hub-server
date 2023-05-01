@@ -1,0 +1,281 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "recipe_name": "Pad Thai",
+      "image": "https://example.com/pad_thai.jpg",
+      "chef_name": "John Smith",
+      "cooking_method": "Stir-fry",
+      "ratings": 4.5,
+      "ingredients": [
+        "8 oz. dried rice noodles",
+        "1/4 cup tamarind paste",
+        "1/4 cup fish sauce",
+        "2 tbsp. sugar",
+        "1 shallot, thinly sliced"
+      ]
+    },
+    {
+      "id": 2,
+      "recipe_name": "Tom Yum Soup",
+      "image": "https://example.com/tom_yum_soup.jpg",
+      "chef_name": "John Smith",
+      "cooking_method": "Boiling",
+      "ratings": 4.8,
+      "ingredients": [
+        "6 cups chicken or vegetable stock",
+        "1 stalk lemongrass, bruised",
+        "3-4 kaffir lime leaves",
+        "2-3 red bird's eye chilies, sliced",
+        "1 inch piece of ginger, sliced"
+      ]
+    },
+    {
+      "id": 3,
+      "recipe_name": "Green Curry",
+      "image": "https://example.com/green_curry.jpg",
+      "chef_name": "John Smith",
+      "cooking_method": "Simmering",
+      "ratings": 4.7,
+      "ingredients": [
+        "1/2 lb. boneless, skinless chicken breast, sliced",
+        "1 can coconut milk",
+        "2 tbsp. green curry paste",
+        "1 red bell pepper, sliced",
+        "1 green bell pepper, sliced"
+      ]
+    },
+    {
+      "id": 4,
+      "recipe_name": "Papaya Salad",
+      "image": "https://example.com/papaya_salad.jpg",
+      "chef_name": "Alice Johnson",
+      "cooking_method": "Mixing",
+      "ratings": 4.2,
+      "ingredients": [
+        "1 medium green papaya, shredded",
+        "1/4 cup fish sauce",
+        "1/4 cup lime juice",
+        "2 tbsp. palm sugar",
+        "1-2 red bird's eye chilies, sliced"
+      ]
+    },
+    {
+      "id": 5,
+      "recipe_name": "Massaman Curry",
+      "image": "https://example.com/massaman_curry.jpg",
+      "chef_name": "Alice Johnson",
+      "cooking_method": "Simmering",
+      "ratings": 4.9,
+      "ingredients": [
+        "1 lb. beef, cut into cubes",
+        "1 can coconut milk",
+        "2-3 tbsp. massaman curry paste",
+        "1-2 potatoes, peeled and cut into cubes",
+        "1/2 cup roasted peanuts"
+      ]
+    },
+    {
+      "id": 6,
+      "recipe_name": "Mango Sticky Rice",
+      "image": "https://example.com/mango_sticky_rice.jpg",
+      "chef_name": "Alice Johnson",
+      "cooking_method": "Steaming",
+      "ratings": 4.6,
+      "ingredients": [
+        "1 cup glutinous rice",
+        "1 can coconut milk",
+        "1/4 cup sugar",
+        "1/2 tsp. salt",
+        "1 ripe mango, peeled and sliced"
+      ]
+    },
+
+    {
+      "id": 7,
+      "recipe_name": "Green Papaya Soup",
+      "image": "https://example.com/green_papaya_soup.jpg",
+      "chef_name": "David Lee",
+      "cooking_method": "Boiling",
+      "ratings": 4.4,
+      "ingredients": [
+        "1 medium green papaya, peeled and sliced",
+        "4 cups chicken or vegetable stock",
+        "1/4 cup fish sauce",
+        "2 tbsp. lime juice",
+        "1-2 red bird's eye chilies, sliced"
+      ]
+    },
+    {
+      "id": 8,
+      "recipe_name": "Red Curry with Shrimp",
+      "image": "https://example.com/red_curry_shrimp.jpg",
+      "chef_name": "David Lee",
+      "cooking_method": "Simmering",
+      "ratings": 4.7,
+      "ingredients": [
+        "1 lb. shrimp, peeled and deveined",
+        "1 can coconut milk",
+        "2-3 tbsp. red curry paste",
+        "1 red bell pepper, sliced",
+        "1 green bell pepper, sliced"
+      ]
+    },
+    {
+      "id": 9,
+      "recipe_name": "Tom Kha Gai",
+      "image": "https://example.com/tom_kha_gai.jpg",
+      "chef_name": "David Lee",
+      "cooking_method": "Boiling",
+      "ratings": 4.8,
+      "ingredients": [
+        "4 cups chicken stock",
+        "1 can coconut milk",
+        "1 stalk lemongrass, bruised",
+        "1-2 red bird's eye chilies, sliced",
+        "1 lb. chicken breast, sliced"
+      ]
+    },
+
+    {
+      "id": 10,
+      "recipe_name": "Green Curry with Tofu",
+      "image": "https://example.com/green_curry_tofu.jpg",
+      "chef_name": "Emily Chen",
+      "cooking_method": "Simmering",
+      "ratings": 4.6,
+      "ingredients": [
+        "1 package firm tofu, cut into cubes",
+        "1 can coconut milk",
+        "2-3 tbsp. green curry paste",
+        "1 zucchini, sliced",
+        "1 red bell pepper, sliced"
+      ]
+    },
+    {
+      "id": 11,
+      "recipe_name": "Pad See Ew",
+      "image": "https://example.com/pad_see_ew.jpg",
+      "chef_name": "Emily Chen",
+      "cooking_method": "Stir-frying",
+      "ratings": 4.9,
+      "ingredients": [
+        "1 lb. flat rice noodles",
+        "2 tbsp. soy sauce",
+        "2 tbsp. oyster sauce",
+        "1 lb. beef or chicken, sliced",
+        "1 cup broccoli florets"
+      ]
+    },
+    {
+      "id": 12,
+      "recipe_name": "Thai Iced Tea",
+      "image": "https://example.com/thai_iced_tea.jpg",
+      "chef_name": "Emily Chen",
+      "cooking_method": "Mixing",
+      "ratings": 4.7,
+      "ingredients": [
+        "4 black tea bags",
+        "1 can sweetened condensed milk",
+        "1 can evaporated milk",
+        "1 tsp. vanilla extract",
+        "1 cup crushed ice"
+      ]
+    },
+    {
+      "id": 13,
+      "recipe_name": "Red Curry with Beef",
+      "image": "https://example.com/red_curry_beef.jpg",
+      "chef_name": "Michael Brown",
+      "cooking_method": "Simmering",
+      "ratings": 4.5,
+      "ingredients": [
+        "1 lb. beef, sliced",
+        "1 can coconut milk",
+        "2-3 tbsp. red curry paste",
+        "1 red bell pepper, sliced",
+        "1 green bell pepper, sliced"
+      ]
+    },
+    {
+      "id": 14,
+      "recipe_name": "Thai Basil Chicken",
+      "image": "https://example.com/thai_basil_chicken.jpg",
+      "chef_name": "Michael Brown",
+      "cooking_method": "Stir-frying",
+      "ratings": 4.8,
+      "ingredients": [
+        "1 lb. chicken breast, sliced",
+        "2 tbsp. soy sauce",
+        "2 tbsp. oyster sauce",
+        "1 red bell pepper, sliced",
+        "1 green bell pepper, sliced"
+      ]
+    },
+    {
+      "id": 15,
+      "recipe_name": "Coconut Rice",
+      "image": "https://example.com/coconut_rice.jpg",
+      "chef_name": "Michael Brown",
+      "cooking_method": "Steaming",
+      "ratings": 4.6,
+      "ingredients": [
+        "2 cups jasmine rice",
+        "1 can coconut milk",
+        "1 cup water",
+        "1 tsp. salt",
+        "1/4 cup chopped cilantro"
+      ]
+    },
+{
+      "id": 16,
+      "recipe_name": "Tom Kha Gai",
+      "image": "https://example.com/tom_kha_gai.jpg",
+      "chef_name": "Sarah Kim",
+      "cooking_method": "Simmering",
+      "ratings": 4.7,
+      "ingredients": [
+        "1 lb. boneless chicken breast, sliced",
+        "1 can coconut milk",
+        "2-3 tbsp. tom kha paste",
+        "1 cup mushrooms, sliced",
+        "2-3 kaffir lime leaves"
+      ]
+    },
+    {
+      "id": 17,
+      "recipe_name": "Thai Fish Cakes",
+      "image": "https://example.com/thai_fish_cakes.jpg",
+      "chef_name": "Sarah Kim",
+      "cooking_method": "Frying",
+      "ratings": 4.6,
+      "ingredients": [
+        "1 lb. white fish fillet, minced",
+        "1/4 cup red curry paste",
+        "1/4 cup chopped green beans",
+        "1/4 cup chopped cilantro",
+        "1 egg, beaten"
+      ]
+    },
+    {
+      "id": 18,
+      "recipe_name": "Papaya Salad",
+      "image": "https://example.com/papaya_salad.jpg",
+      "chef_name": "Sarah Kim",
+      "cooking_method": "Mixing",
+      "ratings": 4.8,
+      "ingredients": [
+        "2 cups shredded green papaya",
+        "1/4 cup fish sauce",
+        "1/4 cup lime juice",
+        "1 tbsp. palm sugar",
+        "1/4 cup chopped peanuts"
+      ]
+    }
+  
+  ]
+}
+
+
+
+    

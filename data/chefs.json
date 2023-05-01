@@ -1,0 +1,58 @@
+{
+  "chefs": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "photo": "https://example.com/john_smith.jpg",
+      "experience": 10,
+      "number_of_recipes": 50,
+      "likes": 10000,
+      "bio": "Passionate chef and food lover. Loves experimenting with flavors and creating new recipes."
+    },
+    {
+      "id": 2,
+      "name": "Alice Johnson",
+      "photo": "https://example.com/alice_johnson.jpg",
+      "experience": 8,
+      "number_of_recipes": 40,
+      "likes": 8000,
+      "bio": "Chef and baker. Specializes in desserts and pastries. Believes food is the best way to bring people together."
+    },
+    {
+      "id": 3,
+      "name": "David Lee",
+      "photo": "https://example.com/david_lee.jpg",
+      "experience": 15,
+      "number_of_recipes": 70,
+      "likes": 12000,
+      "bio": "Chef and restaurateur. Known for his creative and innovative dishes. Believes in using fresh, seasonal ingredients."
+    },
+    {
+      "id": 4,
+      "name": "Emily Chen",
+      "photo": "https://example.com/emily_chen.jpg",
+      "experience": 6,
+      "number_of_recipes": 30,
+      "likes": 6000,
+      "bio": "Home cook turned chef. Loves experimenting with international cuisine. Believes cooking is a form of art."
+    },
+    {
+      "id": 5,
+      "name": "Michael Brown",
+      "photo": "https://example.com/michael_brown.jpg",
+      "experience": 12,
+      "number_of_recipes": 60,
+      "likes": 11000,
+      "bio": "Chef and food writer. Passionate about using local, sustainable ingredients. Believes in the power of food to heal and nourish."
+    },
+    {
+      "id": 6,
+      "name": "Sarah Kim",
+      "photo": "https://example.com/sarah_kim.jpg",
+      "experience": 5,
+      "number_of_recipes": 25,
+      "likes": 5000,
+      "bio": "Chef and food blogger. Loves sharing her favorite recipes and cooking tips. Believes in making cooking accessible to everyone."
+    }
+  ]
+}
