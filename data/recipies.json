@@ -3,7 +3,7 @@
     {
       "id": 1,
       "recipe_name": "Pad Thai",
-      "image": "https://example.com/pad_thai.jpg",
+      "image": "https://i.ibb.co/XCRPvWj/recipes-30-500x500.jpg",
       "chef_name": "John Smith",
       "cooking_method": "Stir-fry",
       "ratings": 4.5,
@@ -18,10 +18,10 @@
     {
       "id": 2,
       "recipe_name": "Tom Yum Soup",
-      "image": "https://example.com/tom_yum_soup.jpg",
+      "image": "https://i.ibb.co/wsHzbNX/recipe-lobster-author-1-500x500.jpg",
       "chef_name": "John Smith",
       "cooking_method": "Boiling",
-      "ratings": 4.8,
+      "ratings": 4.7,
       "ingredients": [
         "6 cups chicken or vegetable stock",
         "1 stalk lemongrass, bruised",
@@ -33,7 +33,7 @@
     {
       "id": 3,
       "recipe_name": "Green Curry",
-      "image": "https://example.com/green_curry.jpg",
+      "image": "https://i.ibb.co/0mWhV5s/homemade-chocolate-cake-1-500x500.jpg",
       "chef_name": "John Smith",
       "cooking_method": "Simmering",
       "ratings": 4.7,
@@ -48,7 +48,7 @@
     {
       "id": 4,
       "recipe_name": "Papaya Salad",
-      "image": "https://example.com/papaya_salad.jpg",
+      "image": "https://i.ibb.co/wsHzbNX/recipe-lobster-author-1-500x500.jpg",
       "chef_name": "Alice Johnson",
       "cooking_method": "Mixing",
       "ratings": 4.2,
@@ -63,10 +63,10 @@
     {
       "id": 5,
       "recipe_name": "Massaman Curry",
-      "image": "https://example.com/massaman_curry.jpg",
+      "image": "https://i.ibb.co/XCRPvWj/recipes-30-500x500.jpg",
       "chef_name": "Alice Johnson",
       "cooking_method": "Simmering",
-      "ratings": 4.9,
+      "ratings": 4.7,
       "ingredients": [
         "1 lb. beef, cut into cubes",
         "1 can coconut milk",
@@ -78,7 +78,7 @@
     {
       "id": 6,
       "recipe_name": "Mango Sticky Rice",
-      "image": "https://example.com/mango_sticky_rice.jpg",
+      "image": "https://i.ibb.co/wsHzbNX/recipe-lobster-author-1-500x500.jpg",
       "chef_name": "Alice Johnson",
       "cooking_method": "Steaming",
       "ratings": 4.6,
@@ -94,7 +94,7 @@
     {
       "id": 7,
       "recipe_name": "Green Papaya Soup",
-      "image": "https://example.com/green_papaya_soup.jpg",
+      "image": "https://i.ibb.co/0mWhV5s/homemade-chocolate-cake-1-500x500.jpg",
       "chef_name": "David Lee",
       "cooking_method": "Boiling",
       "ratings": 4.4,
@@ -109,7 +109,7 @@
     {
       "id": 8,
       "recipe_name": "Red Curry with Shrimp",
-      "image": "https://example.com/red_curry_shrimp.jpg",
+      "image": "https://i.ibb.co/XCRPvWj/recipes-30-500x500.jpg",
       "chef_name": "David Lee",
       "cooking_method": "Simmering",
       "ratings": 4.7,
@@ -124,10 +124,10 @@
     {
       "id": 9,
       "recipe_name": "Tom Kha Gai",
-      "image": "https://example.com/tom_kha_gai.jpg",
+      "image": "https://i.ibb.co/wsHzbNX/recipe-lobster-author-1-500x500.jpg",
       "chef_name": "David Lee",
       "cooking_method": "Boiling",
-      "ratings": 4.8,
+      "ratings": 4.6,
       "ingredients": [
         "4 cups chicken stock",
         "1 can coconut milk",
@@ -140,7 +140,7 @@
     {
       "id": 10,
       "recipe_name": "Green Curry with Tofu",
-      "image": "https://example.com/green_curry_tofu.jpg",
+      "image": "https://i.ibb.co/XCRPvWj/recipes-30-500x500.jpg",
       "chef_name": "Emily Chen",
       "cooking_method": "Simmering",
       "ratings": 4.6,
@@ -155,7 +155,7 @@
     {
       "id": 11,
       "recipe_name": "Pad See Ew",
-      "image": "https://example.com/pad_see_ew.jpg",
+      "image": "https://i.ibb.co/wsHzbNX/recipe-lobster-author-1-500x500.jpg",
       "chef_name": "Emily Chen",
       "cooking_method": "Stir-frying",
       "ratings": 4.9,
@@ -170,7 +170,7 @@
     {
       "id": 12,
       "recipe_name": "Thai Iced Tea",
-      "image": "https://example.com/thai_iced_tea.jpg",
+      "image": "https://i.ibb.co/XCRPvWj/recipes-30-500x500.jpg",
       "chef_name": "Emily Chen",
       "cooking_method": "Mixing",
       "ratings": 4.7,
@@ -185,7 +185,7 @@
     {
       "id": 13,
       "recipe_name": "Red Curry with Beef",
-      "image": "https://example.com/red_curry_beef.jpg",
+      "image": "https://i.ibb.co/0mWhV5s/homemade-chocolate-cake-1-500x500.jpg",
       "chef_name": "Michael Brown",
       "cooking_method": "Simmering",
       "ratings": 4.5,
@@ -200,7 +200,7 @@
     {
       "id": 14,
       "recipe_name": "Thai Basil Chicken",
-      "image": "https://example.com/thai_basil_chicken.jpg",
+      "image": "https://i.ibb.co/0mWhV5s/homemade-chocolate-cake-1-500x500.jpg",
       "chef_name": "Michael Brown",
       "cooking_method": "Stir-frying",
       "ratings": 4.8,
@@ -215,7 +215,7 @@
     {
       "id": 15,
       "recipe_name": "Coconut Rice",
-      "image": "https://example.com/coconut_rice.jpg",
+      "image": "https://i.ibb.co/XCRPvWj/recipes-30-500x500.jpg",
       "chef_name": "Michael Brown",
       "cooking_method": "Steaming",
       "ratings": 4.6,
@@ -227,10 +227,10 @@
         "1/4 cup chopped cilantro"
       ]
     },
-{
+    {
       "id": 16,
       "recipe_name": "Tom Kha Gai",
-      "image": "https://example.com/tom_kha_gai.jpg",
+      "image": "https://i.ibb.co/0mWhV5s/homemade-chocolate-cake-1-500x500.jpg",
       "chef_name": "Sarah Kim",
       "cooking_method": "Simmering",
       "ratings": 4.7,
@@ -245,7 +245,7 @@
     {
       "id": 17,
       "recipe_name": "Thai Fish Cakes",
-      "image": "https://example.com/thai_fish_cakes.jpg",
+      "image": "https://i.ibb.co/XCRPvWj/recipes-30-500x500.jpg",
       "chef_name": "Sarah Kim",
       "cooking_method": "Frying",
       "ratings": 4.6,
@@ -260,10 +260,10 @@
     {
       "id": 18,
       "recipe_name": "Papaya Salad",
-      "image": "https://example.com/papaya_salad.jpg",
+      "image": "https://i.ibb.co/0mWhV5s/homemade-chocolate-cake-1-500x500.jpg",
       "chef_name": "Sarah Kim",
       "cooking_method": "Mixing",
-      "ratings": 4.8,
+      "ratings": 4.6,
       "ingredients": [
         "2 cups shredded green papaya",
         "1/4 cup fish sauce",
@@ -272,10 +272,5 @@
         "1/4 cup chopped peanuts"
       ]
     }
-  
   ]
 }
-
-
-
-    

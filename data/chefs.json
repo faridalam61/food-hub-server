@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "John Smith",
-      "photo": "https://example.com/john_smith.jpg",
+      "photo": "https://i.ibb.co/VYWyxqP/pexels-sides-imagery-3351927.jpg",
       "experience": 10,
       "number_of_recipes": 50,
       "likes": 10000,
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "name": "Alice Johnson",
-      "photo": "https://example.com/alice_johnson.jpg",
+      "photo": "https://i.ibb.co/x2ZtHhM/pexels-miquel-ferran-gomez-figueroa-3814446.jpg",
       "experience": 8,
       "number_of_recipes": 40,
       "likes": 8000,
@@ -21,7 +21,7 @@
     {
       "id": 3,
       "name": "David Lee",
-      "photo": "https://example.com/david_lee.jpg",
+      "photo": "https://i.ibb.co/swjGSqz/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
       "experience": 15,
       "number_of_recipes": 70,
       "likes": 12000,
@@ -30,7 +30,7 @@
     {
       "id": 4,
       "name": "Emily Chen",
-      "photo": "https://example.com/emily_chen.jpg",
+      "photo": "https://i.ibb.co/VYWyxqP/pexels-sides-imagery-3351927.jpg",
       "experience": 6,
       "number_of_recipes": 30,
       "likes": 6000,
@@ -39,7 +39,7 @@
     {
       "id": 5,
       "name": "Michael Brown",
-      "photo": "https://example.com/michael_brown.jpg",
+      "photo": "https://i.ibb.co/x2ZtHhM/pexels-miquel-ferran-gomez-figueroa-3814446.jpg",
       "experience": 12,
       "number_of_recipes": 60,
       "likes": 11000,
@@ -48,7 +48,7 @@
     {
       "id": 6,
       "name": "Sarah Kim",
-      "photo": "https://example.com/sarah_kim.jpg",
+      "photo": "https://i.ibb.co/swjGSqz/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
       "experience": 5,
       "number_of_recipes": 25,
       "likes": 5000,
